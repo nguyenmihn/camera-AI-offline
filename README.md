@@ -17,12 +17,19 @@ This extension helps students and developers:
 ## 📁 File Structure
 
 camera-AI-offline/
+
 ├── camera_ai.py # Main MicroPython library for AI camera
+
 ├── config.json # Metadata for extension manager
+
 ├── definition.js # Define blocks for Blockly interface
+
 ├── toolbox.xml # Structure of blocks inside the Blockly toolbox
+
 ├── languages/ # Multilingual support (vi.json, en.json, etc.)
+
 ├── poster.png # Visual for documentation or UI
+
 └── README.md # This file
 
 yaml
